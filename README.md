@@ -6,7 +6,7 @@ I did not change `attendance_checker.py`. Everything here is shell scripting aro
 
 ## Video walkthrough
 
-Video link: **PASTE_YOUR_VIDEO_LINK_HERE**
+Video link: https://www.loom.com/share/e15b2bbe722d42b0833f7f6f415a76fa
 
 The video explains my approach, how the script was built, and the logic behind each section. It also shows a live marking session, the edge cases, and an interrupt (Ctrl+C) in the middle of a deployment.
 

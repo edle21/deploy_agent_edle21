@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash``
 
 
 # the folder name we are working with (set when the user types a name)
